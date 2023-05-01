@@ -1,4 +1,1 @@
-Ghana
-Mexico
-Spain
-France
+This is the new text
