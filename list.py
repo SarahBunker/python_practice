@@ -29,5 +29,6 @@ use list constructor
 
 countries2 = list(("United Kingdom", "Nigeria", 34, False))
 
+# both are lists
 print(type(countries))
 print(type(countries2))

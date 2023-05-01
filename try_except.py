@@ -2,6 +2,7 @@
 can catch a specific error by name
 
 the else statement will execute if nothing went wrong
+the finally statement will execute wether or not an exception was raised
 '''
 
 
