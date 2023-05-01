@@ -39,3 +39,8 @@ print("Welcome " + "John")
 
 # no automatic conversion when adding numbers and strings
 print(3 + int("3"))
+
+"""
+Other operators
+> or < or >= can't be used with string
+"""
